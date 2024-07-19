@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ali Abdo - Front-End Developer and Machine Learning Enthusiast
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-10.0.0-blue)
+![React](https://img.shields.io/badge/React-17.0.0-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.0.0-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-First, run the development server:
+This is my personal CV built using Next.js, TypeScript, and Tailwind CSS. It showcases my skills, work experience, projects, and contact information.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To get started with this project, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/Aliabdo6/cv.git
+cd cv
+npm install
+```
+
+## Usage
+
+To run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Responsive design
+- Sidebar with profile image and contact details
+- Sections for About Me, Work Experience, Education, Projects, and Certifications
+- SEO-friendly with custom metadata
 
-## Learn More
+## Contributing
 
-To learn more about Next.js, take a look at the following resources:
+If you would like to contribute to this project, please follow these steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add some feature'`)
+5. Push to the branch (`git push origin feature-branch`)
+6. Open a pull request
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Email**: aliabdo12121@outlook.sa
+- **LinkedIn**: [Ali Abdo](https://www.linkedin.com/in/aliabdo6/)
+- **GitHub**: [Aliabdo6](https://github.com/Aliabdo6)
+
+---
+
+Built with ❤️ by Ali Abdo.

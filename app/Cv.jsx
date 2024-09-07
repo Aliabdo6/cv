@@ -340,7 +340,7 @@ const Cv = () => {
               </li>
               <li className="mb-2">
                 <a
-                  href="https://www.datacamp.com/completed/statement-of-accomplishment/track/b2edcc94eb447760d59fa9aa02bb64d9d423bdc0"
+                  href="https://www.datacamp.com/certificate/DA0023219375492"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-blue-500 transition duration-300"
